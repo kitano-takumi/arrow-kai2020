@@ -13,6 +13,6 @@ video{width:500px; height:auto; margin: 10px 30px;}
    h1{font-size: 1.5rem; font-family: cursive; text-align: center;
    margin:30px;}
    p{margin: 20px; line-height: 1.5;}
-   embed{width:500px; height:700px; overflow:hidden; margin: 10px 30px;}
+   embed{width:400px; height:auto; overflow:hidden; margin: 10px 30px;}
    video{width:500px; height:auto; margin: 10px 30px;}
 }
